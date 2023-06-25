@@ -1,4 +1,4 @@
-This project is part of my html skills training. It simply shows my favorite recipes taken from various sites. 
+This project is part of my HTML & CSS skills training. It simply shows my favorite recipes taken from various sites. 
 
 You can view my page at: https://trimadon.github.io/odin-recipes/
 

@@ -24,6 +24,7 @@ a {
 }
 
 button {
+    font-size: large;
     border-width: 3px;
     border-color: #8D99AE;
     border-top: transparent;
